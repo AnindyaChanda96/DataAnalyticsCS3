@@ -1,0 +1,29 @@
+[
+{
+"SensorId": 1,
+"SensorHeight":178,
+"Plant":"PLANT-A",
+"Location": "Bangalore",
+"Temperature": 23,
+"Humidity": 72,
+"RecordedTime": "2005-06-06T18:25:43.511Z"
+},
+{
+"SensorId": 2,
+"SensorHeight":192,
+"Plant":"PLANT-A",
+"Location": "Bangalore",
+"Temperature": 25,
+"Humidity": 78,
+"RecordedTime": "2005-06-06T18:25:43.511Z"
+},
+{
+"SensorId": 1,
+"SensorHeight":156,
+"Plant":"PLANT-A",
+"Location": "Madurai",
+"Temperature": 36,
+"Humidity": 72,
+"RecordedTime": "2005-06-06T18:25:43.511Z"
+}
+]
